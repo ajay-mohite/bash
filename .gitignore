@@ -2,6 +2,7 @@
 
 
 # misc
+tmp_more_than_50
 .DS_Store
 .env.local
 .env.development.local
